@@ -1,14 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { 
-  View, 
-  Text, 
-  TextInput, 
-  TouchableOpacity, 
-  Modal, 
-  SafeAreaView,
-  ScrollView,
-  StatusBar
-} from "react-native";
+import { View, Text, TextInput, TouchableOpacity, Modal, SafeAreaView, ScrollView, StatusBar } from "react-native";
 import { Ionicons } from '@expo/vector-icons';
 import Contact from "@/constants/Contact";
 import { styles } from "@/assets/styles/FormForContact";

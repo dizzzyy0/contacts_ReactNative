@@ -3,6 +3,12 @@
 # dependencies
 node_modules/
 
+# Server
+server.js
+
+# data
+data
+
 # Expo
 .expo/
 dist/
